@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Poemanalysis_Scraper", "Poemanalysis_Scraper.pyproj", "{E313B494-EEAF-41B3-B45E-0057ED884C2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E313B494-EEAF-41B3-B45E-0057ED884C2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E313B494-EEAF-41B3-B45E-0057ED884C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBC11DDE-B824-45F1-8E75-4BAB0A8A546B}
+	EndGlobalSection
+EndGlobal
